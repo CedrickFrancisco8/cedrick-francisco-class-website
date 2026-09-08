@@ -1,0 +1,32 @@
+body {
+    background-color: #c8dba6;
+    font-family: Helvetica, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    font-family: Times New Roman, serif;
+    font-size: 80px;
+    color: #d7522d;
+}
+
+h2 {
+    font-size: 30px;
+font-family: Helvetica, sans-serif;
+color: #153e15;
+}
+
+p {
+    font-size: 20px;
+color: #OD1321;
+}
+
+ul {
+    font-size: 20px;
+    color: #d7522d;
+}
+
+a{
+    text-decoration: none;
+    color: #d7522d
+}
