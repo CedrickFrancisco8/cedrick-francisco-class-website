@@ -10,10 +10,24 @@ body {
     padding-bottom: 50px;
     padding-left: 80px;
     padding-right: 80px;
-    border: 10px ridge #52b788;
+    border: 10px ridge #f7c44d;
     border-radius: 10px;
 }
-
+#hobbies{
+    background-color: #d8f3dc;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: 10px ridge #f7c44d;
+    border-radius: 10px;
+}
+#pibble{
+    background-color: #d8f3dc;
+    padding-top: 50 px;
+    border: 10px ridge #f7c44d;
+    border-radius: 10px;
+}
 h1 {
     font-family: Times New Roman, serif;
     text-align: center;
