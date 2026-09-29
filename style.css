@@ -1,63 +1,69 @@
 body {
-    background-color: #081c15;
+    background-color: #DAD7CD;
     font-family: Helvetica, sans-serif;
     margin: 10px;
 }
 
 #introduction{
-    background-color: #d8f3dc;
-    padding-top: 50 px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-    padding-right: 80px;
-    border: 10px ridge #f7c44d;
-    border-radius: 10px;
-}
-#hobbies{
-    background-color: #d8f3dc;
+    background-color: #A3B18A;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 80px;
     padding-right: 80px;
-    border: 10px ridge #f7c44d;
+    border: 10px ridge #588157;
+    border-radius: 10px;
+}
+#hobbies{
+    width:fit-content;
+    height:fit-content;
+    background-color: #588157;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: 10px ridge #3A5A40;
     border-radius: 10px;
 }
 #pibble{
-    background-color: #d8f3dc;
-    padding-top: 50 px;
-    border: 10px ridge #f7c44d;
+    width: 400px;
+    height: 150px;
+    background-color: #A3B18A;
+    padding: 50px;
+    border: 10px ridge #344E41;
     border-radius: 10px;
+    text-align: center;
+    align-items: center;
 }
 h1 {
     font-family: Times New Roman, serif;
     text-align: center;
     font-size: 100px;
-    color: #52b788;
+    color: #344E41;
 }
 
 h2 {
     font-size: 50px;
     font-family: Times New Roman, serif;
     text-align: center;
-    color: #f7c44d;
+    color: #A3B18A;
 }
 
 h3 {
     font-size: 25px;
     font-family: Times New Roman, serif;
-    color: #52b788;
+    color: #588157;
 }
 
 p {
     font-size: 20px;
-color: #52b788;
+color: #DAD7CD;
 }
 
 ul {
     font-size: 20px;
     font-family:'Courier New', Courier, monospace;
     font-weight: bold;
-    color: #52b788;
+    color: #344E41;
     list-style-position: inside;
 }
 
@@ -65,20 +71,21 @@ ul {
     background-color: #d8f3dc;
     padding: 15px;
     border-radius: 10 px;
-    border: 4px double #f7c44d;
+    border: 4px double #344E41;
     text-align: center;
 }
 
 a{
     text-decoration: underline;
-    color: #f7c44d;
+    color: #344E41;
+    text-align: center;
 }
 
 img {
     border-radius: 50%;
-    border: 5px solid #f7c44d;
+    border: 5px solid #DAD7CD;
 }
 
 u {
-    color:#f7c44d
+    color:#344E41
 }
