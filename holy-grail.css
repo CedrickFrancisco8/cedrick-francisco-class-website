@@ -15,7 +15,8 @@ body {
 .middle {
     background-color:rgb(253, 242, 255);
     display:flex;
-    column-gap: 10px;
+    flex-direction: row;
+    justify-content: center;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 10px;
     align-items: center;
@@ -68,5 +69,5 @@ body {
 
 a{
     text-decoration: underline;
-    color: hotpink;
+    color: hotpink ;
 }
