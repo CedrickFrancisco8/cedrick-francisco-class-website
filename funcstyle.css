@@ -1,0 +1,17 @@
+img {
+    width: 640px;
+    height: 360px
+    display: flex;
+    justify-content: center;
+}
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+h1{
+     font-family: Times New Roman, serif;
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
